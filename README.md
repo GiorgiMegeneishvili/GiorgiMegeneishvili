@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Giorgi Megeneishvili
 
-🎓 **Master's in Informatics** | Tbilisi State University  
+🎓 **Master's and bachelor's in Informatics** | Tbilisi State University  
 💼 **Data Analyst & Data Engineer** at National Agency of Public Registry  
 🌍 Georgia
 
@@ -25,13 +25,13 @@ I love tackling complex data challenges, optimizing performance, and enabling da
 
 ✅ **Languages & Tools**
 - SQL (T-SQL, PL/SQL)
-- Python (pandas, SQLAlchemy)
+- Python (pandas, SQLAlchemy, numpy, matplotlib, pyspark)
 - Power BI
 - Apache Airflow
 - Bash / Linux basics
 
 ✅ **Data Engineering & Modeling**
-- Data Warehousing
+- Data Warehousing, Data Lakehouse
 - ETL / ELT Processes
 - Star Schema, Snowflake Schema, Data Vault
 - Medallion Architecture
