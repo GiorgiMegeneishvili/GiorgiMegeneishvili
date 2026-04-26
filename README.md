@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Giorgi Megeneishvili
 
 🎓 **Master's and bachelor's in Informatics** | Tbilisi State University  
-💼 **Data Analyst & Data Engineer** at National Agency of Public Registry  
+💼 **Data Developer & Data Engineer** at Liberty Bank Of Georgia
 🌍 Georgia
 
 Welcome to my GitHub profile! I'm passionate about transforming raw data into valuable insights through robust engineering solutions.
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about transforming raw data into va
 
 I'm a dedicated and results-driven **Data Engineer** with hands-on experience in:
 
-- Designing and orchestrating end-to-end ETL/ELT pipelines
+- Designing and orchestrating end-to-end ETL/ELT pipelines(CDC,FullLoad & Real-Time Data)
 - Building data warehouse solutions using modern modeling techniques
 - Automating data workflows with Airflow
 - Developing analytical dashboards in Power BI for impactful business decisions
@@ -25,14 +25,15 @@ I love tackling complex data challenges, optimizing performance, and enabling da
 
 ✅ **Languages & Tools**
 - SQL (T-SQL, PL/SQL)
-- Python (pandas, SQLAlchemy, numpy, matplotlib, pyspark)
-- Power BI
+- Azure (ADF, ADLG2)
+- Python (Pyspark, Kafka, pandas, SQLAlchemy, numpy, matplotlib)
+- Power BI(DAX,Measures), SSRS
 - Apache Airflow
 - Bash / Linux basics
 
 ✅ **Data Engineering & Modeling**
-- Data Warehousing, Data Lakehouse
-- ETL / ELT Processes
+- Data Lakehouse, Data Warehousing & Data Marts
+- ETL / ELT Processes ()
 - Star Schema, Snowflake Schema, Data Vault
 - Medallion Architecture
 
@@ -42,6 +43,19 @@ I love tackling complex data challenges, optimizing performance, and enabling da
 - PostgreSQL
 
 ---
+
+## 🏗 Data Architecture Approach
+
+I follow modern Data Lakehouse architecture principles:
+
+- Bronze Layer → Raw ingestion (Kafka, APIs)
+- Silver Layer → Data cleaning & transformation
+- Gold Layer → Business-ready analytics (Star Schema)
+
+Technologies:
+Kafka | Spark | SQL Server | Power BI
+
+
 
 ## 🔗 Get in Touch
 
