@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Giorgi Megeneishvili
 
-🎓 **Master's and bachelor's in Informatics** | Tbilisi State University  
+🎓 **Master's and bachelor's in Informatics | Tbilisi State University  
 💼 **Data Developer & Data Engineer** at Liberty Bank Of Georgia
 🌍 Georgia
 
